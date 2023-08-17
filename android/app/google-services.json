@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "191810767650",
+    "firebase_url": "https://demoshopee-c064b-default-rtdb.firebaseio.com",
+    "project_id": "demoshopee-c064b",
+    "storage_bucket": "demoshopee-c064b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191810767650:android:055015bf347965098fb37b",
+        "android_client_info": {
+          "package_name": "com.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191810767650-edh0g4rmoi7q7qbv8dre16ln30b8nrv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW6jDpuMIzPe7JpnnnfeYDrY9XDFjMPO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191810767650-edh0g4rmoi7q7qbv8dre16ln30b8nrv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
